@@ -3,6 +3,7 @@
 using namespace std;
 
 <<<<<<< HEAD
+//hola soy Ernesto 
 =======
 =======
 //hola by Alejandro Bautista OwO
