@@ -1,8 +1,8 @@
 #include <iostream>
 /*Hola :V*/
-/*Que cuenta el novio, jajaja no cierto*/
-using namespace std;
 
+using namespace std;
+/*Que cuenta el novio, jajaja no cierto*/
 main()
 {
 	cout<<"Hola mundo"<<endl;
