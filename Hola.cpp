@@ -29,6 +29,7 @@ main()
 }
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 
 
@@ -58,6 +59,9 @@ main()
                                                          '.  '  .'    
 Si no mandas esta cadena tendrás 7 años(más) de mala suerte xddd                                                         
 */
+=======
+//Salma Estrada --//
+>>>>>>> 92567b7a294f098ad41353be96126431f80e8391
 =======
 /*Jose luis castillo Corona */
 >>>>>>> 2188912a3373e5b05f210151411d8db10034ba8d
