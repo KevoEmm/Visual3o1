@@ -2,7 +2,7 @@
 /*Hola :V*/
 <<<<<<< HEAD
 <<<<<<< HEAD
-
+//Alquicira estuvo aqui
 using namespace std;
 /*Que cuenta el novio, jajaja no cierto*/
 =======
