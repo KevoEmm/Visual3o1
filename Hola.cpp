@@ -1,5 +1,14 @@
 #include <iostream>
 /*Hola :V*/
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+using namespace std;
+/*Que cuenta el novio, jajaja no cierto*/
+=======
+/*Fidel Angeles*/
+=======
+>>>>>>> 2188912a3373e5b05f210151411d8db10034ba8d
 using namespace std;
 
 <<<<<<< HEAD
