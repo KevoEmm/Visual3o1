@@ -10,8 +10,10 @@ using namespace std;
 =======
 >>>>>>> 2188912a3373e5b05f210151411d8db10034ba8d
 using namespace std;
+//hola soy Ernesto
 
 <<<<<<< HEAD
+//hola soy Ernesto 
 =======
 =======
 //hola by Alejandro Bautista OwO
