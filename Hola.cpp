@@ -36,4 +36,9 @@ main()
 	
 	cout<<"holi quieres ser mi compi"<<endl;
 }
+<<<<<<< HEAD
+
+//Salma Estrada --//
+=======
 /*Jose luis castillo Corona */
+>>>>>>> 2188912a3373e5b05f210151411d8db10034ba8d
