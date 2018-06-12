@@ -6,4 +6,4 @@ main()
 {
 	cout<<"Hola mundo"<<endl;
 }
-/*Jose luis castillo*/
+/*Jose luis castillo Corona */
