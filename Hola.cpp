@@ -1,16 +1,18 @@
 #include <iostream>
 /*Hola :V*/
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 using namespace std;
 /*Que cuenta el novio, jajaja no cierto*/
 =======
 /*Fidel Angeles*/
+=======
+>>>>>>> 2188912a3373e5b05f210151411d8db10034ba8d
 using namespace std;
-//hola by jose luis garcia
-<<<<<<< HEAD
-//Ernesto cruz 
 
+<<<<<<< HEAD
+=======
 =======
 //hola by Alejandro Bautista OwO
 <<<<<<< HEAD
@@ -18,6 +20,7 @@ using namespace std;
 =======
 <<<<<<< HEAD
 //Hi by Lupita
+//Hola Soy Dayan
 =======
 <<<<<<< HEAD
 >>>>>>> 9c71aabadb8349f834ee3b5f5f1e81ca37ef0d25
@@ -29,5 +32,8 @@ using namespace std;
 >>>>>>> 0dc1e3f477c7b6bfcab5b4b410b772c27bfe181d
 main()
 {
-	cout<<"Neto es un mugroso "<<endl;
+	cout<<"Hola mundo"<<endl;
+	
+	cout<<"holi quieres ser mi compi"<<endl;
 }
+/*Jose luis castillo Corona */
