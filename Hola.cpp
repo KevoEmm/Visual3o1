@@ -2,7 +2,11 @@
 /*Hola :V*/
 <<<<<<< HEAD
 <<<<<<< HEAD
-//mau alvarez
+<<<<<<< HEAD
+//mau alvarez sanchez
+=======
+//Alquicira estuvo aqui
+>>>>>>> 1fd792fc40ab29f419b7c909d8a3577cbe87cebb
 using namespace std;
 /*Que cuenta el novio, jajaja no cierto*/
 =======
