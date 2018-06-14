@@ -78,7 +78,9 @@ main()
                                      |%/ \%|           :  <----->  :   
                                                        '.  ~:::~  .'
                                                          '.  '  .'    
-Si no mandas esta cadena tendrás 7 años(más) de mala suerte xddd                                                         
+Si no mandas esta cadena tendrás 7 años(más) de mala suerte xddd   
+
+Esto es parte de un tutorial                                                      
 */
 =======
 //Salma Estrada --//
