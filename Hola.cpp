@@ -19,6 +19,7 @@ using namespace std;
 =======
 //hola soy Ernesto
 
+//DianaCanoALcaraz.
 <<<<<<< HEAD
 //hola soy Ernesto 
 =======
